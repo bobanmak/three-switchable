@@ -1,0 +1,39 @@
+{
+  "name": "three-switchable",
+  "version": "1.0.1",
+  "description": "Implement additional switches for THREE.Light",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobanmak/three-switchable.git"
+  },
+  "keywords": [
+    "threejs",
+    "interface",
+    "switch",
+    "toggle",
+    "lights"
+  ],
+  "author": "bobanmak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bobanmak/three-switchable/issues"
+  },
+  "homepage": "https://github.com/bobanmak/three-switchable#readme",
+  "devDependencies": {
+    "@rollup/plugin-replace": "latest",
+    "async": "latest",
+    "gulp": "latest",
+    "rollup-plugin-buble": "latest",
+    "rollup-plugin-node-resolve": "latest",
+    "gulp-rollup": "latest",
+    "rollup": "latest",
+    "three-viewport": "git+https://github.com/i3ernie/three-viewport.git"
+  }
+}
