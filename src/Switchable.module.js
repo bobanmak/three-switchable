@@ -1,6 +1,10 @@
-// 6.2.21 Boban J.
-import * as THREE from "../../node_modules/three/build/three.module.js";
+/** Interface to implement additional features for THREE.Light
+ * 
+ *  Created by Boban Jordanoski 16.02.2021
+ * 
 
+ */
+import * as THREE from "../../node_modules/three/build/three.module.js";
 
 const Switchable = {
 

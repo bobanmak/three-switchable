@@ -1,7 +1,11 @@
 define(['exports', 'three'], function (exports, THREE) { 'use strict';
 
-    // 6.2.21 Boban J.
+    /** Interface to implement additional features for THREE.Light
+     * 
+     *  Created by Boban Jordanoski 16.02.2021
+     * 
 
+     */
 
     const Switchable = {
 
